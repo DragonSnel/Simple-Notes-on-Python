@@ -1,0 +1,1 @@
+Simple Python code in the form of notes. For a working code, you need to create a folder, place the code there, also add another folder to the code folder, you can name them as you want, the “Hidden Notes” folder will itself be created in your code folder. I'm training to make various useful applications on your device
